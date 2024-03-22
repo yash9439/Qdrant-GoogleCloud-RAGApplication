@@ -39,7 +39,6 @@ pip install -r requirements.txt
 4. Upload the generated embeddings and associated metadata to the Qdrant cluster.
 5. Generate text with a language model (e.g., GPT-4, Gemini Ultra) by passing the retrieved documents as context.
 
-Refer to the [documentation](docs/README.md) for detailed instructions and code examples.
 
 ## Contributing
 
