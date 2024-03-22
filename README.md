@@ -28,7 +28,7 @@ git clone https://github.com/your-username/rag-qdrant-gcloud.git
 2. Install the required Python packages:
 
 ```
-pip install -r requirements.txt
+pip install PyPDF2 nltk fastembed qdrant-client[fastembed] openai
 ```
 
 ### Usage
